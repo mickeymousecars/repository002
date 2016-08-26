@@ -8,6 +8,7 @@ public class wwww {
 		System.out.println("test 5");
 		System.out.println("test 6");
 		System.out.println("test 7");
+		System.out.println("test 8");
 	}
 
 }
